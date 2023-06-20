@@ -1,0 +1,66 @@
+[2m2023-06-20 08:46:47.199[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[           main][0;39m [36mcom.rkdevblog.redis.RedisApplication    [0;39m [2m:[0;39m Starting RedisApplication on mahjoub with PID 13772 (/home/mahjoub/repo/redis-lettuce-spring-boot-example-docker/target/classes started by mahjoub in /home/mahjoub/repo/redis-lettuce-spring-boot-example-docker)
+[2m2023-06-20 08:46:47.203[0;39m [32mDEBUG[0;39m [35m13772[0;39m [2m---[0;39m [2m[           main][0;39m [36mcom.rkdevblog.redis.RedisApplication    [0;39m [2m:[0;39m Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+[2m2023-06-20 08:46:47.204[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[           main][0;39m [36mcom.rkdevblog.redis.RedisApplication    [0;39m [2m:[0;39m No active profile set, falling back to default profiles: default
+[2m2023-06-20 08:46:47.906[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[           main][0;39m [36m.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m Multiple Spring Data modules found, entering strict repository configuration mode!
+[2m2023-06-20 08:46:47.908[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[           main][0;39m [36m.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[2m2023-06-20 08:46:47.937[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[           main][0;39m [36m.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m Finished Spring Data repository scanning in 14ms. Found 0 Redis repository interfaces.
+[2m2023-06-20 08:46:48.366[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 8080 (http)
+[2m2023-06-20 08:46:48.374[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.apache.catalina.core.StandardService  [0;39m [2m:[0;39m Starting service [Tomcat]
+[2m2023-06-20 08:46:48.375[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[           main][0;39m [36morg.apache.catalina.core.StandardEngine [0;39m [2m:[0;39m Starting Servlet engine: [Apache Tomcat/9.0.30]
+[2m2023-06-20 08:46:48.429[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/]      [0;39m [2m:[0;39m Initializing Spring embedded WebApplicationContext
+[2m2023-06-20 08:46:48.430[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.s.web.context.ContextLoader           [0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 1170 ms
+[2m2023-06-20 08:46:48.900[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.s.s.concurrent.ThreadPoolTaskExecutor [0;39m [2m:[0;39m Initializing ExecutorService 'applicationTaskExecutor'
+[2m2023-06-20 08:46:49.105[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 8080 (http) with context path ''
+[2m2023-06-20 08:46:49.109[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[           main][0;39m [36mcom.rkdevblog.redis.RedisApplication    [0;39m [2m:[0;39m Started RedisApplication in 3.23 seconds (JVM running for 4.381)
+[2m2023-06-20 08:47:08.364[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/]      [0;39m [2m:[0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2m2023-06-20 08:47:08.364[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2023-06-20 08:47:08.371[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 6 ms
+[2m2023-06-20 08:47:12.229[0;39m [32mDEBUG[0;39m [35m13772[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mc.rkdevblog.redis.controller.Controller [0;39m [2m:[0;39m Generating otp for user@gmail.com 
+[2m2023-06-20 08:47:17.308[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mio.lettuce.core.EpollProvider           [0;39m [2m:[0;39m Starting without optional epoll library
+[2m2023-06-20 08:47:17.316[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mio.lettuce.core.KqueueProvider          [0;39m [2m:[0;39m Starting without optional kqueue library
+[2m2023-06-20 08:47:26.338[0;39m [31mERROR[0;39m [35m13772[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mo.a.c.c.C.[.[.[/].[dispatcherServlet]   [0;39m [2m:[0;39m Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.rkdevblog.redis.exception.OTPServiceException: Error while saving to cache ] with root cause
+
+java.net.UnknownHostException: redis: Temporary failure in name resolution
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:867)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1302)
+	at java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:815)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1291)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1144)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1065)
+	at java.net.InetAddress.getByName(InetAddress.java:1015)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:148)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:145)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at io.netty.util.internal.SocketUtils.addressByName(SocketUtils.java:145)
+	at io.netty.resolver.DefaultNameResolver.doResolve(DefaultNameResolver.java:43)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:63)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:55)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:57)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:32)
+	at io.netty.resolver.AbstractAddressResolver.resolve(AbstractAddressResolver.java:108)
+	at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:200)
+	at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:46)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:180)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:166)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:604)
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:984)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:504)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:417)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:474)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)
+
+[2m2023-06-20 08:48:14.941[0;39m [32m INFO[0;39m [35m13772[0;39m [2m---[0;39m [2m[extShutdownHook][0;39m [36mo.s.s.concurrent.ThreadPoolTaskExecutor [0;39m [2m:[0;39m Shutting down ExecutorService 'applicationTaskExecutor'
