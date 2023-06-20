@@ -2,8 +2,6 @@
 
 This is a sample spring-boot project to demonstrate redis cache with spring-boot.
 
-Blog post: http://www.rajith.me/2020/02/using-redis-with-spring-boot.html
-
 ## Requirements
 * Java 8
 * Apache Maven 3.5.0 or higher
@@ -33,8 +31,3 @@ mvn clean install
 ```
 docker-compose up --build 
 ```
-
-### Reference Documentation
-For further reference, please consider the following sections:
-
-(Redis-Client) https://lettuce.io/
